@@ -1,5 +1,7 @@
 # Lunar Maze Navigation with Maximum Safety
 
+![maze](maze.png)
+
 ## Problem Statement
 
 In the context of lunar exploration, our robot embarks on a mission to navigate a maze-like terrain filled with craters. The primary objective is to find the shortest path from the source to the destination while maximizing the minimum distance between the robot's path and the craters encountered along the way. The overarching goal is to ensure the robot maintains a safe distance from craters throughout its entire trajectory.
