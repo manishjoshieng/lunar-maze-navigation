@@ -32,8 +32,3 @@ The provided C++ solution employs a priority queue-based approach to find the op
 
 - The `main` function demonstrates how to use the solution to find the shortest path in a 6x6 maze.
 - Customize `max_row`, `max_col`, `start`, `end`, and `cat` for different scenarios.
-
-
----
-
-Feel free to replace `"path_to_image.png"` with the actual path to an image representing your lunar maze. Customize this README based on your specific implementation details and any additional information you'd like to provide.
